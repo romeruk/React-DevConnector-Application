@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://localhost:27017/DevConnector",
+  "jwtSecret": "mysertreteasad",
+  "githubClientId": "Your clindID",
+  "githubSecret": "Your Secret key"
+}
